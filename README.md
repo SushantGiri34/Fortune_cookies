@@ -9,7 +9,7 @@ Perfect for a quick smile or some motivation! 😄
 - 20 unique and positive fortune messages.
 - Simple **Press Enter** to get your fortune.
 - Type **exit** anytime to quit.
-- Fun emojis for a friendly user experience.
+- Fun emojis for a friendly user experience..
 
 ---
 
